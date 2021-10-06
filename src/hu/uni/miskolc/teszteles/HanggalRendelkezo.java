@@ -1,4 +1,4 @@
-package hu.uni.miskolc.teszteles.core;
+package hu.uni.miskolc.teszteles;
 
 public interface HanggalRendelkezo {
 
